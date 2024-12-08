@@ -47,11 +47,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theprinceofcodes/theprinceofcodes/output/github-contribution-grid-snake.svg" />
   
-  <br/>
+  <br/><br/><br/>
 </div>
   
   <br/><br/><br/>
